@@ -1,0 +1,4 @@
+streamlit==1.31.1
+opencv-python==4.9.0.80
+dlib==19.24.4
+numpy==1.26.3
