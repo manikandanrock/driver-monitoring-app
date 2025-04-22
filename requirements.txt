@@ -1,9 +1,8 @@
-# requirements.txt
 streamlit==1.31.1
 opencv-python-headless==4.9.0.80
 numpy==1.26.3
 mediapipe==0.10.21
-protobuf==4.25.3  # Explicitly set to version compatible with both
+protobuf==4.25.3
 absl-py==2.1.0
 attrs==23.2.0
 flatbuffers==23.5.26
