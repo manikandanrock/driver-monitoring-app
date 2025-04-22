@@ -2,10 +2,9 @@
 streamlit==1.31.1
 opencv-python-headless==4.9.0.80
 numpy==1.26.3
-mediapipe==0.10.15  # Compatible version with other deps
-protobuf==3.20.3
+mediapipe==0.10.21
+protobuf==4.25.3  # Explicitly set to version compatible with both
 absl-py==2.1.0
 attrs==23.2.0
 flatbuffers==23.5.26
-matplotlib==3.8.4
 packaging==23.2
